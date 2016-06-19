@@ -22,7 +22,7 @@ file.remove("normalized_if_vel.txt")
 
 attack.model = 1
 
-###################################################################################
+##################################################################################
 output = read.table("output.txt", sep="\t")
   colnames(output) = c("iteration", "timestep", "radar.distance")
 
