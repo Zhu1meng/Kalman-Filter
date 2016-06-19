@@ -4,7 +4,7 @@ rm(list=ls(all=TRUE))
 ##      KALMAN FILTER SIMULATION        ##
 ##      MP Roeling, miniproject 1       ##
 ##      Oxford University               ##   
-##      April 2016                      ##
+##      May/June 2016                   ##
 ##                                      ##
 ##########################################
 
