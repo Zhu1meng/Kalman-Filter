@@ -40,7 +40,7 @@ distVincentyEllipsoid(coor1, coor2, a=6378137, b=6356752.314140, f=1/298.2572221
   b = Polar axis of ellipsoid = 6356752.314140
   f = Inverse flattening of ellipsoid = 298.257222101 "
 
-#####################################################################
+####################################################################
 # select first flight 
 data = alldata[alldata$time<1444740000,]
 
