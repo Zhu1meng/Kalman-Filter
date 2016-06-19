@@ -10,7 +10,7 @@ rm(list=ls(all=TRUE))
 
 setwd("C:/Users/mproeling/Documents/Oxford/miniproject/Kalman/simulation/")
 
-###################################################################################
+##################################################################################
 output = read.table("output.txt", sep="\t")
   colnames(output) = c("iteration", "timestep", "radar.distance")
 # Rplot_linear_distance_time  
